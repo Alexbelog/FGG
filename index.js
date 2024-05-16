@@ -212,7 +212,7 @@ const customDialog = document.getElementById('custom-list'),
     saveCustomData = function (stringData) {
         const url = new URL(window.location);
 
-        document.title = 'Колесо WhoPG2 (' + stringData.substring(0, 30) + '…)';
+        document.title = 'Колесо Atomic Shop (' + stringData.substring(0, 30) + '…)';
 
         url.search = new URLSearchParams({custom: stringData});
         // console.log(url.toString());
