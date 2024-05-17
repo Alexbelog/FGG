@@ -591,6 +591,116 @@
    },
    {
       "image":"/items/060.png",
+      "title":"[Оружие] Заточенное копьё",
+      "type":"[Холодное оружие]",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"[Оружие] Молот",
+      "type":"[Холодное оружие]",
+      "description":"в стычках +2 урона против врагов",
+      "charge":4,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"[Оружие] Шиш-кебаб",
+      "type":"[Холодное оружие]",
+      "description":"В стычках +4 урона против врагов",
+      "charge":6,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Револьвер",
+      "type":"[Пистолеты]",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/060.png",
       "title":"Заточенное копьё",
       "type":"Предмет",
       "description":"В стычках +1 урон против врагов",
