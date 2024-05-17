@@ -600,7 +600,7 @@
       "quantity":1
    },
    {
-      "image":"/items/060.png",
+      "image":"/items/061.png",
       "title":"[Оружие] Молот",
       "type":"[Холодное оружие]",
       "description":"в стычках +2 урона против врагов",
@@ -610,7 +610,7 @@
       "quantity":1
    },
    {
-      "image":"/items/060.png",
+      "image":"/items/062.png",
       "title":"[Оружие] Шиш-кебаб",
       "type":"[Холодное оружие]",
       "description":"В стычках +4 урона против врагов",
@@ -620,7 +620,7 @@
       "quantity":1
    },
    {
-      "image":"/items/060.png",
+      "image":"/items/063.png",
       "title":"Револьвер",
       "type":"[Пистолеты]",
       "description":"В стычках +1 урон против врагов",
