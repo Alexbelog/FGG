@@ -26,6 +26,17 @@ const dataSets = {
     items: [
         'foo',
         'bar',
+    ], 
+    items2: [
+      '"image":"/items/060.png",
+      "title":"Заточенное копьё",
+      "type":"Предмет",
+      "description":"В стычках +1 урон против врагов",
+      "charge":2,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1'
+   },
     ],
     coin: [
         {title: '1',  image: '/coins/001.png'},
