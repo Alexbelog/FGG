@@ -394,8 +394,8 @@
       "title":"Броня ниндзя",
       "type":"[Броня]",
       "description":"Имеет характеристики A (ловкость) и L (удача)",
-      "charge":3,
-      "limit":null,
+      "charge":null,
+      "limit":"3 стычки/встречи",
       "color":"#4cdc8b",
       "quantity":1
    },
