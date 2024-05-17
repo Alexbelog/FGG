@@ -1,4 +1,9 @@
-
+const dataSets = {
+    coin2: [
+        'Тест положительный',
+        'Тест отрицательный',
+    ]
+};
 let currentDataSet = 'inventory',
     editedDataSets = {},
     itemsEditedDataSet = null
